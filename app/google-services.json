@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200453473237",
+    "firebase_url": "https://wiijam.firebaseio.com",
+    "project_id": "wiijam",
+    "storage_bucket": "wiijam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200453473237:android:91e2ccbdec1ad02f",
+        "android_client_info": {
+          "package_name": "com.example.hellen.wiiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200453473237-f18gge9h1e1b06gheg158ccg5n9hjci1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hellen.wiiapp",
+            "certificate_hash": "4b903f3602162014e79ed9953611c56ff4e52cea"
+          }
+        },
+        {
+          "client_id": "200453473237-m478tktdeunhoge1l2g55vrg1r65bgf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ItCvb4dyUDcM6jdGnoSqj6jeHssVXc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200453473237-m478tktdeunhoge1l2g55vrg1r65bgf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

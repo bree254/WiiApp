@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="email">Enter your name</string>
+    <string name="pass">Enter your password</string>
+    <string name="Create">Sign Up</string>
+    <string name="signup">no account?Sign up</string>
+    <string name="haveaccountlog">Already have an acount?Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enteryouremail">Enter your email</string>
+
+    <string name="packages">Packages</string>
+    <string name="install">Installation</string>
+    <string name="my_account">My Account</string>
+    <string name="customer_support">Customer Support</string>
+    <string name="log">Logout</string>
+    <string name="logout_confirm_yes">YES</string>
+    <string name="logout_confirm_no">NO</string>
+    <string name="logout_confirm_message">Are You Sure You Want to Logout</string>
+    <string name="logout_confirm">LOGOUT</string>
+    <string name="app_name" />
+
+
+    <string-array name="counties_array">
+        <item>Westlands</item>
+        <item>Kasarani</item>
+        <item>Kamukunji</item>
+        <item>Embakasi</item>
+        <item>Gatundu South</item>
+        <item>Gatundu North</item>
+        <item>Juja</item>
+        <item>ThikaTown</item>
+        <item>Ruiru</item>
+    </string-array>
+    <string-array name="locations_array">
+        <item>Juja</item>
+        <item>Kalimoni</item>
+        <item>Murera</item>
+        <item>Witeithie</item>
+        <item>Kamukunji</item>
+    </string-array>
+</resources>
